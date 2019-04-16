@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootreception
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: uvionics
+Implementation-Vendor-Id: io.springboot
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/Reception_Ma
+ nagement_System/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

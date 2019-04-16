@@ -1,0 +1,15 @@
+security:
+  oauth2:
+    client:
+      client-id: uvionics
+      client-secret: $2a$10$hvZhIBLk.xQw.fnxYETcB.pnFeoIwA/lm1Ua2PPHDfRgvdfhlA9xu
+      authorized-grant-types: authorization_code,refresh_token,password
+      scope: openid
+      access-token-validity-seconds: 2592000
+      refresh-token-validity-seconds: 3456000
+spring:
+  data:
+    mongodb:
+      database: faceRecognition
+      host: localhost
+      port: 27017

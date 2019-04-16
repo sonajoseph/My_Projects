@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jwt-auth
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: uvionics
+Implementation-Vendor-Id: com.devglan
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ jwt-auth/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
